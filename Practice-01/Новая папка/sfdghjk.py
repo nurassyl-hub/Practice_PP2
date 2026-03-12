@@ -1,1 +1,0 @@
-print('Raim lox')
