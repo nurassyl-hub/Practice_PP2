@@ -50,4 +50,4 @@ def delete_contact():
     except (Exception, psycopg2.DatabaseError) as error:
         print(f"Error: {error}")
 if __name__=='__main__':
-    delete_contact()
+    delete_contact()       
