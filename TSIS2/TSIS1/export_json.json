@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Ali",
+        "surname": "Khan",
+        "email": "ali@gmail.com",
+        "birthday": "2005-04-12",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87071112233",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Dana",
+        "surname": "Serik",
+        "email": "dana@mail.com",
+        "birthday": "2004-09-21",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87075556677",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Aruzhan",
+        "surname": "test",
+        "email": "aruzhan@work.com",
+        "birthday": "2003-01-10",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87078889900",
+                "type": "work"
+            }
+        ]
+    }
+]

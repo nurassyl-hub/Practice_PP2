@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Nurdaulet",
+        "surname": "Malik",
+        "email": "minafeed645@gmail.com",
+        "birthday": "2008-08-23",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87773485045",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Raiymbek",
+        "surname": "Maipasov",
+        "email": "raiymbek@mail.com",
+        "birthday": "2004-09-21",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87075556677",
+                "type": "home"
+            }
+        ]
+    }
+]
